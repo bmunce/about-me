@@ -1,0 +1,14 @@
+.image img {
+	height: 200px;
+	width: 200px;
+	border-radius: 60%;
+}
+.icons {
+		font-size: 2em;
+}
+.container {
+	width: 500px;
+}
+.img {
+	float: left;
+}
